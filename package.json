@@ -1,0 +1,17 @@
+{
+	"name": "bugdisconnect",
+	"version": "1.0.0",
+	"description": "It warns things when someone disconnects.",
+	"main": "main.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"lodash.debounce": "^4.0.8"
+	}
+}
